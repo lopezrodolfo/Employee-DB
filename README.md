@@ -2,6 +2,14 @@
 
 A simple command-line application to manage employee records.
 
+## Author
+
+Rodolfo Lopez
+
+## Date
+
+September 24, 2021
+
 ## Features
 
 - Add new employees
@@ -38,3 +46,7 @@ A simple command-line application to manage employee records.
    ```
    ./employee_db full_db.txt
    ```
+
+## Acknowledgements
+
+Professor Sat Garcia wrote the starter code and I implemented the functions in employee_db.c
